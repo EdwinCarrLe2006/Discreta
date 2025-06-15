@@ -10,7 +10,7 @@ def main():
     satelites = ['S1', 'S2']
     hubs = ['H1', 'H2']
     
-    # Datos de ubicación (coordenadas simuladas)
+    # Datos de ubicación 
     ubicaciones = {
         'H1': {'nombre': 'Centro de Lima', 'direccion': 'Av. Abancay 123', 'coords': (-12.0464, -77.0428)},
         'H2': {'nombre': 'San Isidro', 'direccion': 'Av. Javier Prado Este 456', 'coords': (-12.0972, -77.0338)},
