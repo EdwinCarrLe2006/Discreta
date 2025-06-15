@@ -134,5 +134,5 @@ def main():
     else:
         print("No se encontró solución óptima.")
 
-if __name__ == "_main_":
+if __name__ == "__main__":
     main()
